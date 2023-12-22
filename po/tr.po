@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: tr_Ceviri\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-22 16:28+0300\n"
-"PO-Revision-Date: 2023-12-22 19:56+0300\n"
+"PO-Revision-Date: 2023-12-22 20:06+0300\n"
 "Last-Translator: Murat Turgut <muratturgut289@gmail.com>\n"
 "Language-Team: Turkish <muratturgut289@gmail.com>\n"
 "Language: tr\n"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: ui/MainWindow.glade:883
 msgid "Install, remove, update applications"
-msgstr "Kur, kaldır, güncelle, uygulamalar"
+msgstr "Uygulamaları Kur, Kaldır, Güncelle"
 
 #: ui/MainWindow.glade:885 src/MainWindow.py:5308
 msgid "Website"
